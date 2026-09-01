@@ -11,7 +11,7 @@ A very simple game for the windows console, this was a college project that i ha
 
 ## Authors
 
-* [paige](https://github.com/loodooo) - majority of programming
+* [evie](https://github.com/loodooo) - majority of programming
 * [Think-Wave](https://github.com/Th1nk-Wave) - made dependancys in dependancies/Th1nkWave/ original at [secsaver](https://github.com/Th1nk-Wave/sec-saver/tree/main/sec-saver/dependancies)
 > also made the levels using [sprite fusion](https://www.spritefusion.com/)
 
